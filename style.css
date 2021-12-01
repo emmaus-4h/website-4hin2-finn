@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: #574c3d;  
     
-    color: #303030;
+    color: white;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -60,7 +60,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #fcc321;
     overflow: hidden;
 }
 
@@ -81,7 +81,8 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: #40382d;
+    color: #fcc321;
 }
 
 
