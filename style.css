@@ -66,6 +66,12 @@ a:hover {
   clear: both;
 }
 
+img.tank{
+  float: left;
+  width: 35%;
+  margin-right: 15px;
+}
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
