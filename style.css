@@ -72,6 +72,10 @@ img.tank{
   margin-right: 15px;
 }
 
+th{
+  padding-right: 15px;
+}
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
