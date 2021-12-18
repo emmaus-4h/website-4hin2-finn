@@ -86,6 +86,12 @@ th{
   font-weight: bold;
 }
 
+img.bevrijding {
+  float: right;
+  margin-left: 15px;
+  width: 50%;  
+}
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
