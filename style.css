@@ -18,7 +18,7 @@ main {
 
 
 article {
-    text-align: justify;
+    text-align: left;
 }
 
 
@@ -74,6 +74,16 @@ img.tank{
 
 th{
   padding-right: 15px;
+}
+
+.tableCenter{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ruimteTable{
+  padding-right: 15px;
+  font-weight: bold;
 }
 
 /* navigatiebalk */
