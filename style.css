@@ -89,8 +89,10 @@ th{
 img.slagen {
   float: right;
   margin-left: 15px;
-  width: 100%;  
+  width: 50%;  
 }
+
+
 
 iframe{
   width: 100%;
