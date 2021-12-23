@@ -92,7 +92,21 @@ img.slagen {
   width: 50%;  
 }
 
+img.slagenLinks {
+  float: left;
+  margin-right: 15px;
+  width: 50%;  
+}
 
+.textRechts{
+  float: right;
+  width: 45%
+}
+
+.textLinks{
+  float: ;
+  width: 45%
+}
 
 iframe{
   width: 100%;
