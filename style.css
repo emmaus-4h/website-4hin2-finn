@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: #fcc321;
     text-align: center;
 }
 
@@ -137,15 +137,17 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: #574c3d;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #736450;
+    color: white;
 }
 
 nav li a.active {
