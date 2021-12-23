@@ -34,6 +34,15 @@ footer {
 }
 
 
+/* fonts */
+
+header{
+font-family: 'Times New Roman', Times, serif
+}
+
+article{
+  font-family: 'Courier New', Courier, monospace
+}
 
 
 
@@ -132,6 +141,7 @@ nav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-weight: bold;
 }
 
 nav li a:hover {
