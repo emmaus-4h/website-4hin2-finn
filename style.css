@@ -75,6 +75,8 @@ a:hover {
   clear: both;
 }
 
+/* opmaak voor tank paginas */
+
 img.tank{
   float: left;
   width: 50%;
@@ -94,6 +96,8 @@ th{
   padding-right: 15px;
   font-weight: bold;
 }
+
+/* opmaak veldslagen paginas */
 
 img.slagen {
   float: right;
@@ -116,6 +120,8 @@ img.slagenLinks {
   float: ;
   width: 45%
 }
+
+/* css code voor youtube video */
 
 iframe{
   width: 100%;
