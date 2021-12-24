@@ -162,5 +162,13 @@ nav li a.active {
 }
 
 
+/* fixed nav bar */
+nav{
+  position: fixed;
+top: 0px;
+width: 700px;
+}
 
-
+.info{
+ padding-top: 30px;
+}
