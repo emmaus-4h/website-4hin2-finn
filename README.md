@@ -47,7 +47,7 @@ Stap 7: Eye catchers
 
 ### Uitbreidingen
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
-- [ ] ...
+- [x] ...
 
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
